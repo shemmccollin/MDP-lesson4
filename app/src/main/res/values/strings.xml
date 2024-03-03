@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lesson4</string>
+    <string name="addBtn">Add</string>
+    <string name="column1">Water Resource Name</string>
+    <string name="column2">Location</string>
+    <string name="column3">Type</string>
+</resources>
