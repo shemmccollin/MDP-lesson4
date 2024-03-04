@@ -4,4 +4,9 @@
     <color name="white">#FFFFFFFF</color>
     <color name="purple_200">#FEF7FF</color>
     <color name="grey">#C3BDC5</color>
+    <color name="loginColor">#F6F6F6</color>
+    <color name="blue">#0000ff</color>
+    <color name="yellow">#EED084</color>
+    <color name="createBtn">#EAEBEE</color>
+    <color name="loginTitle">#EFEFEF</color>
 </resources>

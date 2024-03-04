@@ -4,4 +4,16 @@
     <string name="column1">Water Resource Name</string>
     <string name="column2">Location</string>
     <string name="column3">Type</string>
+    <string name="zappos">Sign in to <b>Zappos.com</b> using your Amazon account</string>
+    <string name="signIn">Sign in</string>
+    <string name="forgotPassword">Forgot Password?</string>
+    <string name="email">Email (phone for mobile accounts)</string>
+    <string name="amazonPassword">Amazon password</string>
+    <string name="showPassword">Show Password</string>
+    <string name="keepMe">Keep me signed in.</string>
+    <string name="details">Details</string>
+    <string name="newTo">New to Amazon?</string>
+    <string name="create">Create a new Amazon account</string>
+    <string name="conditions">Conditions of Use Privacy Notice</string>
+    <string name="copyright">© 1996–2017, Amazon.com, Inc. or it affiliates</string>
 </resources>

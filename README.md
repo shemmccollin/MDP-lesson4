@@ -13,3 +13,6 @@ Application with no data in the Location text field
 Application with no data in the Type text field
 ![img_4.png](img_4.png)
 
+Amazon E-commerce App Login Screen
+![img_5.png](img_5.png)
+
