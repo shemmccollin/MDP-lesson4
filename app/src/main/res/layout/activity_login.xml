@@ -209,13 +209,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
+        android:layout_marginStart="15dp"
         android:layout_marginBottom="222dp"
+        android:layout_toEndOf="@+id/divider4"
         android:text="@string/newTo" />
 
     <View
         android:id="@+id/divider4"
-        android:layout_width="130dp"
+        android:layout_width="125dp"
         android:layout_height="1dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
@@ -237,7 +238,7 @@
 
     <View
         android:id="@+id/divider6"
-        android:layout_width="400dp"
+        android:layout_width="370dp"
         android:layout_height="3dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
